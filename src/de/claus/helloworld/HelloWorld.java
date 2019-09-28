@@ -18,4 +18,8 @@ public class HelloWorld {
 	public void function3FromXPS() {
 		
 	}
+	
+	public void funktion4FromDell() {
+		
+	}
 }
