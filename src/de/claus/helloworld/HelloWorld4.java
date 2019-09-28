@@ -6,4 +6,8 @@ public class HelloWorld4 {
 		
 		//Nochmal ein paar Kleinigkeiten
 	}
+	
+	public void addMethodXPS() {
+		
+	}
 }
