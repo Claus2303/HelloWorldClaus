@@ -5,5 +5,9 @@ public class HelloWorld2 {
 		//Von Dell
 		System.out.println("Kleiner Test");
 	}
+	
+	public void fastFixDell() {
+		
+	}
 
 }
