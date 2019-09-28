@@ -8,6 +8,9 @@ public class HelloWorld4 {
 	}
 	
 	public void addMethodXPS() {
+		//Test
+	}
+	public void deleteDell() {
 		
 	}
 }
