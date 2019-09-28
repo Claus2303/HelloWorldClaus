@@ -22,4 +22,8 @@ public class HelloWorld {
 	public void funktion4FromDell() {
 		
 	}
+	
+	public void function5FromDell() {
+		
+	}
 }
