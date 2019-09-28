@@ -8,7 +8,14 @@ public class HelloWorld {
 
 	public void function2FromXPS() {
 	}
+	/**
+	 * Kurzkommentar
+	 */
 	public void function1FromDell() {
+		
+	}
+	
+	public void function3FromXPS() {
 		
 	}
 }
