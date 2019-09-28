@@ -5,7 +5,10 @@ public class HelloWorld {
 		System.out.println("HelloWOrld");
 	}
 	
+
 	public void function2FromXPS() {
+	}
+	public void function1FromDell() {
 		
 	}
 }
