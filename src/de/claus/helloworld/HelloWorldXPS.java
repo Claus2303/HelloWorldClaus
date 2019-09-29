@@ -6,6 +6,6 @@ public class HelloWorldXPS {
 	}
 	
 	public void doSomethingXPS() {
-		
+		System.out.println("XPS ist super");
 	}
 }
