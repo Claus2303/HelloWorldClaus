@@ -13,4 +13,8 @@ public class HelloWorld4 {
 	public void deleteDell() {
 		
 	}
+	
+	public void addMethodDell() {
+		
+	}
 }
