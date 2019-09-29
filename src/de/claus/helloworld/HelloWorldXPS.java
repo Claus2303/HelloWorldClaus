@@ -1,4 +1,4 @@
-package de.claus.helloworld;
+  package de.claus.helloworld;
 
 public class HelloWorldXPS {
 	public static void main(String[] args) {
@@ -6,6 +6,6 @@ public class HelloWorldXPS {
 	}
 	
 	public void doSomethingXPS() {
-		
+		//XPS, du kasnnst ja gar nichts
 	}
 }
